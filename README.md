@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Flutter, Dart, OOP, Python
 
-- 💬 Ask me about 
-
 - 📫 How to reach me **aashirisani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
