@@ -2,7 +2,7 @@
 <!-- <h3 align="center">I am a Tech enthusiast</h3> -->
 
 
-- 🌱 I’m currently learning **Flutter, Dart , Python
+- 🌱 I’m currently learning **Flutter, Firebase, Dart, Django, Python
 
 - 📫 How to reach me **aashirisani@gmail.com**
 
