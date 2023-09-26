@@ -1,73 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aashir</h1>
 <!-- <h3 align="center">I am a Tech enthusiast</h3> -->
 
+- 👋 Hi, I’m @aash1r
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-<p> void main() {  
-  final websiteUrl = 'dctech.dev';
-  
-  final me = PersonalInfo(
-    title: 'Senior Flutter Engineer',
-    contacInfo: ContactInfo(
-      email: Uri.parse('mailto:danicoy@gmail.com'),
-      linkedIn: Uri.https('www.linkedin.com', 'in/daniel-coyula/'),
-      github: Uri.https('github.com', 'monster555'),
-      portfolio: Uri.https('portfolio.dctech.dev'),
-      facefolio: Uri.https('facefolio.dctech.dev'),
-      website: Uri.https(websiteUrl),
-      resume: Uri.https(websiteUrl, 'downloads/viewDanielCoyulaCV().pdf'),
-    ),
-    flutterInfo: FlutterInfo(
-      experienceYears: '5+',
-      projectsCount: 'Many!', // And counting... :)
-      apps: <Stores>[
-        IOS(
-          hasPublishedApps: true,
-          appsCount: 4,
-        ),
-        Android(
-          hasPublishedApps: true,
-          appsCount: 6,
-        ),
-      ],
-      useBLoC: true,
-      useCleanArchitecture: true,
-      useFirebase: true,
-      useParseServer: true,
-      useFlutterWeb: true,
-      doLocalization: true,
-      doResponsiveDesign: true,
-    ),
-    otherSkills: <SkillString>[
-      'UI / UX',
-      'MongoDB',
-      'JavaScript',
-      'NodeJS',
-      'HTML / CSS',
-      'TypeScript',
-      'Ionic Framework',
-      'Express',
-      'React',
-      'NextJS'
-    ],
-    projects: <Project>[
-      Project(
-        'My FaceFolio',
-        role: 'Senior Flutter Engineer',
-        platforms: Platforms(webVersion: true),
-        url: Uri.https('facefolio.dctech.dev'),
-      ),
-      Project(
-        'Baseball Cuba',
-        role: 'Senior Flutter Engineer',
-        platforms: Platforms(androidVersion: true, iosVersion: true),
-      ),
-    ],
-  )..setStatus(
-    learningCoolStuff: true,
-    openToNewProjects: true,
-  );
-}
-<\p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-aashir-756b70227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aash1r" height="30" width="40" /></a>
