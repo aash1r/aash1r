@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aashir</h1>
 <!-- <h3 align="center">I am a Tech enthusiast</h3> -->
 
-- 👋 Hi, I’m @aash1r
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning Flutter, Firebase, Rest Api's 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... aashirisani@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
