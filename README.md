@@ -2,7 +2,7 @@
 <!-- <h3 align="center">I am a Tech enthusiast</h3> -->
 
 
-void main() {
+<p> void main() {
   final websiteUrl = 'dctech.dev';
   
   final me = PersonalInfo(
@@ -61,54 +61,13 @@ void main() {
         role: 'Senior Flutter Engineer',
         platforms: Platforms(androidVersion: true, iosVersion: true),
       ),
-      Project(
-        'My Flutter Web Portfolio',
-        role: 'Senior Flutter Engineer',
-        platforms: Platforms(webVersion: true),
-        url: Uri.https('portfolio.dctech.dev'),
-      ),
-      Project(
-        'ProAnimals',
-        role: 'Senior Flutter Engineer',
-        platforms: Platforms(androidVersion: true, iosVersion: true),
-      ),
-      Project(
-        'Cashews Finance',
-        role: 'Senior Flutter Engineer',
-        platforms: Platforms(androidVersion: true, iosVersion: true),
-        url: Uri.https(websiteUrl, 'cashews-finance'),
-      ),
-      Project(
-        'KOBA Insurance',
-        role: 'Full Stack Senior Developer',
-        platforms: Platforms(webVersion: true),
-        url: Uri.https(websiteUrl, 'koba'),
-      ),
-      Project(
-        'Self-Service kiosk for Citroën',
-        role: 'Full Stack Software Engineer',
-        platforms: Platforms(androidVersion: true),
-        url: Uri.https(websiteUrl, 'citroen'),
-      ),
-      Project(
-        'PedidoFacil',
-        role: 'Full Stack Software Engineer',
-        platforms: Platforms(androidVersion: true, iosVersion: true),
-        url: Uri.https(websiteUrl, 'pedidofacil'),
-      ),
-      Project(
-        'EnvioFacil',
-        role: 'Full Stack Software Engineer',
-        platforms: Platforms(androidVersion: true, iosVersion: true),
-        url: Uri.https(websiteUrl, 'enviofacil'),
-      ),
     ],
   )..setStatus(
     learningCoolStuff: true,
     openToNewProjects: true,
   );
 }
-
+<\p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-aashir-756b70227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aash1r" height="30" width="40" /></a>
