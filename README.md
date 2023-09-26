@@ -2,8 +2,7 @@
 <!-- <h3 align="center">I am a Tech enthusiast</h3> -->
 
 -  I’m currently learning Flutter, Firebase, Rest Api's 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... aashirisani@gmail.com
+-  How to reach me ... aashirisani@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
