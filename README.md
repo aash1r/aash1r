@@ -2,9 +2,112 @@
 <!-- <h3 align="center">I am a Tech enthusiast</h3> -->
 
 
-- 🌱 I’m currently learning **Flutter, Firebase, Dart, Django, Python
-
-- 📫 How to reach me **aashirisani@gmail.com**
+void main() {
+  final websiteUrl = 'dctech.dev';
+  
+  final me = PersonalInfo(
+    title: 'Senior Flutter Engineer',
+    contacInfo: ContactInfo(
+      email: Uri.parse('mailto:danicoy@gmail.com'),
+      linkedIn: Uri.https('www.linkedin.com', 'in/daniel-coyula/'),
+      github: Uri.https('github.com', 'monster555'),
+      portfolio: Uri.https('portfolio.dctech.dev'),
+      facefolio: Uri.https('facefolio.dctech.dev'),
+      website: Uri.https(websiteUrl),
+      resume: Uri.https(websiteUrl, 'downloads/viewDanielCoyulaCV().pdf'),
+    ),
+    flutterInfo: FlutterInfo(
+      experienceYears: '5+',
+      projectsCount: 'Many!', // And counting... :)
+      apps: <Stores>[
+        IOS(
+          hasPublishedApps: true,
+          appsCount: 4,
+        ),
+        Android(
+          hasPublishedApps: true,
+          appsCount: 6,
+        ),
+      ],
+      useBLoC: true,
+      useCleanArchitecture: true,
+      useFirebase: true,
+      useParseServer: true,
+      useFlutterWeb: true,
+      doLocalization: true,
+      doResponsiveDesign: true,
+    ),
+    otherSkills: <SkillString>[
+      'UI / UX',
+      'MongoDB',
+      'JavaScript',
+      'NodeJS',
+      'HTML / CSS',
+      'TypeScript',
+      'Ionic Framework',
+      'Express',
+      'React',
+      'NextJS'
+    ],
+    projects: <Project>[
+      Project(
+        'My FaceFolio',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(webVersion: true),
+        url: Uri.https('facefolio.dctech.dev'),
+      ),
+      Project(
+        'Baseball Cuba',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(androidVersion: true, iosVersion: true),
+      ),
+      Project(
+        'My Flutter Web Portfolio',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(webVersion: true),
+        url: Uri.https('portfolio.dctech.dev'),
+      ),
+      Project(
+        'ProAnimals',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(androidVersion: true, iosVersion: true),
+      ),
+      Project(
+        'Cashews Finance',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(androidVersion: true, iosVersion: true),
+        url: Uri.https(websiteUrl, 'cashews-finance'),
+      ),
+      Project(
+        'KOBA Insurance',
+        role: 'Full Stack Senior Developer',
+        platforms: Platforms(webVersion: true),
+        url: Uri.https(websiteUrl, 'koba'),
+      ),
+      Project(
+        'Self-Service kiosk for Citroën',
+        role: 'Full Stack Software Engineer',
+        platforms: Platforms(androidVersion: true),
+        url: Uri.https(websiteUrl, 'citroen'),
+      ),
+      Project(
+        'PedidoFacil',
+        role: 'Full Stack Software Engineer',
+        platforms: Platforms(androidVersion: true, iosVersion: true),
+        url: Uri.https(websiteUrl, 'pedidofacil'),
+      ),
+      Project(
+        'EnvioFacil',
+        role: 'Full Stack Software Engineer',
+        platforms: Platforms(androidVersion: true, iosVersion: true),
+        url: Uri.https(websiteUrl, 'enviofacil'),
+      ),
+    ],
+  )..setStatus(
+    learningCoolStuff: true,
+    openToNewProjects: true,
+  );
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
