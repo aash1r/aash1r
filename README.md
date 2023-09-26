@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashir</h1>
 <!-- <h3 align="center">I am a Tech enthusiast</h3> -->
 
-```
+```dart
 void main() {
   final websiteUrl = 'dctech.dev';
   
