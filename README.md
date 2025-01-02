@@ -12,7 +12,7 @@ I'm a dedicated software engineer who enjoys building scalable and efficient sol
 
 ### Backend Development:
 <p align="left">
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" alt="fastapi" width="80" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" alt="fastapi" width="120" height="40"/> </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Databases:
