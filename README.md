@@ -1,57 +1,34 @@
-<!-- <h1 align="center">Hi 👋, I'm Aashir</h1> -->
-<!-- <h3 align="center">I am a Tech enthusiast</h3> -->
+# 👋 Hi, I'm Muhammad Aashir
 
-```dart
-Initializing Dart VM...
+I'm a dedicated software engineer who enjoys building scalable and efficient solutions.
 
-Dart VM is ready to use.
-To contact me, please send me a message to `aashirisani@gmail.com`.
-For more details, please visit https://www.linkedin.com/in/muhammad-aashir-756b70227/ .
-```
+## 🚀 Skills
 
-```dart
-void main() {
-  final me = PersonalInfo(
-    title: 'Flutter Engineer',
-    contacInfo: ContactInfo(
-      email: Uri.parse('mailto:aashirisani@gmail.com'),
-      linkedIn: Uri.https('www.linkedin.com', 'in/muhammad-aashir-756b70227/'),
-      github: Uri.https('https://github.com/aash1r'),
-    ),
-    flutterInfo: FlutterInfo(
-      projectsCount: 'Many!', // And counting... :)
-      apps: <Stores>[
-        Android(
-          hasPublishedApps: false,
-        ),
-      ],
-      useStacked: true,
-      useCleanArchitecture: true,
-      useFirebase: true,
-    ),
-    otherSkills: <SkillString>[
-      'UI / UX',
-      'Python',
-      'Mysql',
-      'Firebase',
-      'HTML / CSS',
-    ],
-    projects: <Project>[
-      Project(
-        'Ecommerce App',
-        platforms: Platforms(androidVersion: true),
-      ),
-      Project(
-        'Tetris Game',
-        platforms: Platforms(androidVersion: true),
-      ),
-    ],
-  )..setStatus(
-    learningCoolStuff: true,
-    openToNewProjects: true,
-  );
-}
-```
+### App Development: 
+<p align="left">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+</p>
 
-<h3 align="left">Other stuff i've used:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/>  </p>
+### Backend Development:
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" alt="fastapi" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+</p>
+
+### Databases:
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+</p>  
+
+### Scripting:
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
+      
+## 📫 Contact Me
+
+- [aashirisani@gmail.com](mailto:aashirisani@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aashir8/)
