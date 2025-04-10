@@ -6,8 +6,8 @@ I'm a dedicated software engineer who enjoys building scalable and efficient sol
 
 ### Languages: 
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="60" height="40"/> </a> 
 </p>
 
 ### Frameworks & Tools:
