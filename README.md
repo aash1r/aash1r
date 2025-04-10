@@ -21,9 +21,9 @@ I'm a dedicated software engineer who enjoys building scalable and efficient sol
 
 ### Cloud & DevOps:
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353443/aws.svg" alt="aws" width="80" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ookyGlsTh-UT0YBUwdTLSA.png" alt="githubactions" width="100" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"> <img src="https://tcude.net/content/images/size/w2000/2022/01/MainImage-2.jpeg" alt="compose" width="100" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353443/aws.svg" alt="aws" width="80" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ookyGlsTh-UT0YBUwdTLSA.png" alt="githubactions" width="80" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"> <img src="https://tcude.net/content/images/size/w2000/2022/01/MainImage-2.jpeg" alt="compose" width="80" height="50"/> </a>
 </p> 
 
 ### Databases:
