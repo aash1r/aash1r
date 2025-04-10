@@ -12,7 +12,7 @@ I'm a dedicated software engineer who enjoys building scalable and efficient sol
 
 ### Frameworks & Tools:
 <p align="left">
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="100" height="100"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/f/fastapi.svg" alt="fastapi" width="100" height="100"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="100" height="100"/> </a>
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="celery" width="60" height="60"/> </a> 
