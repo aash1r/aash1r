@@ -10,9 +10,9 @@
 
 
 
-<h2 align="left">- 🌱 I’m currently learning</h2>
+<h2 align="left">- 🌱 What I’m currently learning / improving on</h2>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  </p>
-
+<h2 align="left">Github Stats</h2><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aash1r&" alt="aash1r" /></p>
 <br>
 <h2 align="left">Connect with me:</h2>
